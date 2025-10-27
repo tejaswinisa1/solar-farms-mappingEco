@@ -1,3 +1,6 @@
+https://universe.roboflow.com/roboflow-100/solar-panels-taxvb?utm_source=chatgpt.com
+
+
 # An Artificial Intelligence Dataset for Solar Energy Locations in India
 
 The majority of recent studies use either predictions of resource suitability or databases that are either developed thru crowdsourcing that often have significant sampling biases or have time lags between when projects are permitted and when location data becomes available. Here, we address this shortcoming by developing a spatially explicit machine learning model to map utility-scale solar projects across India using freely available satellite imagery. Model predictions were validated by human experts to obtain a total of 1363 solar PV farms. Using these outputs, we provide a cumulative measure of the solar footprint across India and quantified the degree of land modification associated with land cover types that may cause conflicts.
@@ -150,4 +153,5 @@ You can contribute to the project by submitting bugs and feature requests.
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the MIT license.
+
 
